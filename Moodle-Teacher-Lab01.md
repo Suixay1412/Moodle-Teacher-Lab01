@@ -193,27 +193,27 @@ Course format → เลือก "Custom sections"
   
 **ตัวอย่างโครงสร้าง Gradebook:**
 ```
-Course Weights Total (100%)
-├─ Category: แบบทดสอบ (Weight 30%)
-│  ├─ items: สอบกลางภาค (Max grade: 20) (คะแนนเต็ม 20)
-│  ├─ items: สอบปลายภาค (Max grade: 30) (คะแนนเต็ม 30)
-├─ Category: การบ้าน (Weight 30%)
-│  ├─ items: Assignment 1 (Max grade: 10)
-│  ├─ items: Assignment 2 (Max grade: 10)
-│  └─ items: Assignment 3 (Max grade: 10)
-├─ Category: โปรเจกต์ (30%)
-│  └─ items: Final Project (Max grade: 30)
-└─ Category: การมีส่วนร่วม (10%)
-   └─ items: Attendance (Max grade: 10)
+### Course Weights Total (100%)
+├─ **Category: แบบทดสอบ** (Weight 30%)
+│  ├─ **items: สอบกลางภาค** (Max grade: 20) (คะแนนเต็ม 20)
+│  ├─ **items: สอบปลายภาค** (Max grade: 30) (คะแนนเต็ม 30)
+├─ **Category: การบ้าน** (Weight 30%)
+│  ├─ **items: Assignment 1** (Max grade: 10)
+│  ├─ **items: Assignment 2** (Max grade: 10)
+│  └─ **items: Assignment 3** (Max grade: 10)
+├─ **Category: โปรเจกต์** (30%)
+│  └─ **items: Final Project** (Max grade: 30)
+└─ **Category: การมีส่วนร่วม** (10%)
+   └─ **items: Attendance** (Max grade: 10)
 ```
 
 ---
 
-### **ขั้นตอนที่ 3: Create Groups (20 นาที)**
+### **ขั้นตอนที่ 3: Create Groups**
 
 #### **3.1 การสร้างกลุ่มนักเรียน**
 
-**เป้าหมาย:** แบ่งนักเรียนเป็นกลุ่ม สำหรับงานกลุ่ม/โปรเจกต์
+**แบ่งนักเรียนเป็นกลุ่ม สำหรับงานกลุ่ม/โปรเจกต์**
 
 **⚠️ ทำไมต้องสร้าง Groups ก่อน?**
 - เมื่อสร้าง Assignment จะเลือก "Students submit in groups" ได้
